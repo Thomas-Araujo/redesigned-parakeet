@@ -1,0 +1,54 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 20px;
+    color: black;
+}
+body
+{
+    background-size: cover;
+}
+.speed_img
+{
+    width: 200px;
+    border-radius: 100%;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.dive_speed
+{
+    float: left;
+}
+.dive_sound
+{
+    float: right;
+}
+#sound
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.sound_img
+{
+    width: 200px;
+    border-radius: 100%;
+}
+.play_button
+{
+    font-size: 25px;
+    width: 130px;
+}
+canvas
+{
+    border: 5px solid blue;
+    border-radius: 20px;
+    margin-top: 100px;
+}
